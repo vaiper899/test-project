@@ -1,0 +1,7 @@
+{
+  "configuration": {
+    "keyboard_capture_interval": 300,
+    "webcam_capture_interval": 30,
+    "screen_capture_interval": 30
+  }
+}
