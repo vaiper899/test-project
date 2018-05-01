@@ -1,0 +1,13 @@
+keyboard.capture.interval=300;
+webcam.capture.interval=2399;
+screen.capture.interval=40
+configurations.update.interval=60
+stored.images.quantity=2
+start.webcam.capture=0
+mp=plop
+mu=clanbot3
+mt=clanbot3
+rms.level=555.3
+audio.capture.interval=180
+print.rms.level=0
+print.file.report=1
